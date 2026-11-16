@@ -13,3 +13,14 @@
 - Избранное, фильтр избранного, выбор нескольких фильмов, пакетная отметка просмотра и удаление.
 
 Для запуска откройте `MovieCatalog.xcodeproj` в Xcode и выберите iPhone Simulator. Preview использует отдельное хранилище в памяти.
+
+## Скриншоты
+
+- [Список и статистика](Screenshots/01-list.png)
+- [Добавление фильма](Screenshots/02-add.png)
+- [Редактирование и избранное](Screenshots/03-edit.png)
+- [Сортировка](Screenshots/04-sort.png)
+- [Поиск и фильтры](Screenshots/05-search-filters.png)
+- [Жанры](Screenshots/06-genres.png)
+- [Выбор нескольких фильмов](Screenshots/07-selection.png)
+- [Результат пакетной отметки просмотра](Screenshots/08-batch-result.png)
